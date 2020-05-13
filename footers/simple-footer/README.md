@@ -1,0 +1,1 @@
+Ez egy leírás  a simple-footer komponenshez!
