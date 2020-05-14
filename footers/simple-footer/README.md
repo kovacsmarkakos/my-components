@@ -1,5 +1,3 @@
 Ez egy leírás  a simple-footer komponenshez!
 
-footers/simple-footer/simple-footer.png
-
-![Image of simple-footer](footers/simple-footer/simple-footer.png)
+![Image of simple-footer](https://raw.githubusercontent.com/kovacsmarkakos/my-components/master/footers/simple-footer/simple-footer.png?token=APPHQVNK2EYHVRNCQNNY5CC6XUHHC)
