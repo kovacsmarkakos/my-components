@@ -1,2 +1,2 @@
 # my-components
-Komponens tároló a Codeberry-ben tanult komponensekből.
+Komponens tároló.
