@@ -1,3 +1,5 @@
+# Simple footer
+
 Ez egy leírás  a simple-footer komponenshez!
 <hr>
 
